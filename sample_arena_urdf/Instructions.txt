@@ -1,0 +1,6 @@
+1. Install ROS
+2. Make workspace
+3. Paste this folder inside <workspace>/src/
+4. Do catkin_make inside workspace
+5. source devel/setup.bash
+6. roslaunch sample_arena_urdf gazebo.launch 
