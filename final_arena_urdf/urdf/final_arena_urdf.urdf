@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.5.1-0-g916b5db  Build Version: 1.5.7152.31018
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="final_arena_urdf">
+  <link
+    name="arena">
+    <inertial>
+      <origin
+        xyz="3.9803 2.9843 6.2913"
+        rpy="0 0 0" />
+      <mass
+        value="7400.8" />
+      <inertia
+        ixx="30213"
+        ixy="-2.6186"
+        ixz="-94.045"
+        iyy="69541"
+        iyz="38.433"
+        izz="39355" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://final_arena_urdf/meshes/final_arena.dae" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.79216 0.81961 0.93333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://final_arena_urdf/meshes/final_arena.dae" />
+      </geometry>
+    </collision>
+  </link>
+</robot>
