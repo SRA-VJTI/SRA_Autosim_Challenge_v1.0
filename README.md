@@ -2,7 +2,7 @@
 The world continues to move deliberately towards a transportation system driven by autonomous vehicles having benefits like lesser travel time, cheaper transportation costs, reduced CO2 emissions, and many more. But with great power comes great responsibility. Designing a safer mechanism while maintaining an efficient program has always been a top priority. 
 A line following vehicle is in a way an entry level autonomous vehicle that can navigate any course while following on a contrasting background. As a line follower bot always needs a path to run, its applications are limited. This is where various sensors like lidar, ultrasonic, camera come into picture. 
 
-## For Problem Statement and Images:
+## Problem Statement and Images:
 https://drive.google.com/file/d/1-HUtt-bm3C8wKsXfCvsx6lSd64l9kTW4/view?usp=sharing
 
 ## STEPS TO FOLLOW:
